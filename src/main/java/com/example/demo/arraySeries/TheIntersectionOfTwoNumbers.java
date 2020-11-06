@@ -5,6 +5,12 @@ import org.springframework.util.StringUtils;
 
 import java.util.*;
 
+/**
+ * 两个数组的交集
+ * 说明：
+ *  1. 输出结果中每个元素出现的次数，应与元素在两个数组中出现的次数一致。
+ *  2. 我们可以不考虑输出结果的顺序。
+ */
 public class TheIntersectionOfTwoNumbers {
 
 
